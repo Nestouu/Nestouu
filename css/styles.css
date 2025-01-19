@@ -52,6 +52,11 @@ p, img, ul, ol {
     margin-top: 1rem;
 }
 
+p {
+    text-align: justify;
+}
+
+
 ul, ol {
     margin-left: 1.1rem;
 }
